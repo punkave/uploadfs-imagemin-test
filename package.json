@@ -18,7 +18,7 @@
   "homepage": "https://github.com/punkave/uploadfs-imagemin-test#readme",
   "dependencies": {
     "connect-multiparty": "^2.1.0",
-    "cookie-parser": "^1.4.3",
+    "uploadfs": "^1.10.0",
     "express": "^4.16.3",
     "imagemin": "^5.3.1",
     "imagemin-jpegtran": "^5.0.2",
