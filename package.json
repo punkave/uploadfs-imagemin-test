@@ -1,0 +1,27 @@
+{
+  "name": "uploadfs-imagemin-test",
+  "version": "1.0.0",
+  "description": "Test uploadfs with imagemin injected",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/punkave/uploadfs-imagemin-test.git"
+  },
+  "author": "P'unk Avenue LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/punkave/uploadfs-imagemin-test/issues"
+  },
+  "homepage": "https://github.com/punkave/uploadfs-imagemin-test#readme",
+  "dependencies": {
+    "connect-multiparty": "^2.1.0",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.3",
+    "imagemin": "^5.3.1",
+    "imagemin-jpegtran": "^5.0.2",
+    "imagemin-pngquant": "^5.1.0"
+  }
+}
